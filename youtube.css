@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+.side{
+    display: flex;
+    flex-direction: column;
+}
+.sideitem{
+    padding: 20px;    
+}
+.big{
+    display: flex;
+}
+.nav{
+    display: flex;
+    gap: 200px;
+}
+input[type="search"]{
+background-color: black;
+color: white;
+border-radius: ;
+}
